@@ -1,0 +1,30 @@
+/* Our Story Styles */
+.ourStory__wrapper {
+	display: flex; 
+	gap: 2rem;
+}
+
+.ourStory__title
+ {
+	font-size: 3rem;
+	font-weight: 600;
+	color: blue;
+	margin-bottom: 1rem;
+    margin-top: 2rem;
+}
+.ourStory__subtitle {
+	font-size: 2rem;
+	font-weight: 600;
+	color: var(--black-1);
+	margin-bottom: 2rem;
+}
+.ourStory__text
+ {
+	font-size: 1.4rem;
+    margin: 2px;
+	line-height: 1.4em;
+	color: var(--black-2);
+}
+
+
+
